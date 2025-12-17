@@ -1,4 +1,4 @@
 *.p linguist-language=Pascal
 *.pas linguist-language=Pascal
 *.cs linguist-language=C#
-
+*.solscript linguist-language=Sol
