@@ -2,3 +2,4 @@
 *.pas linguist-language=Pascal
 *.cs linguist-language=C#
 *.solscript linguist-language=Sol
+*.bf linguist-language=Brainfuck
