@@ -1,4 +1,4 @@
-# Exemplos de ola mundo em diferentes linguagens]
+# Exemplos de ola mundo em diferentes linguagens
 
 # videos e locais que o projeto foi baseado e executado:
 
